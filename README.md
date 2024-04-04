@@ -1,3 +1,3 @@
 # CloudedAI - Note Taking App
 
-...
+.
