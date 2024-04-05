@@ -5,7 +5,7 @@ import Link from "next/link";
 import { auth } from "@clerk/nextjs";
 import { redirect } from "next/navigation";
 
-export const maxDuration = 300
+export const maxDuration = 300;
 
 export default function Home() {
   const { userId } = auth();
