@@ -7,6 +7,8 @@ const nextConfig = {
       },
     ],
   },
+  basePath: "/clouded-ai",
+  output: "export",
 };
 
 export default nextConfig;
