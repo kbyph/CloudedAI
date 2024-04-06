@@ -7,7 +7,6 @@ const nextConfig = {
       },
     ],
   },
-  runtime: "nodejs"
 };
 
 export default nextConfig;
