@@ -22,6 +22,8 @@ AI integrated note-taking app with Chatbot assistant.
 
 <img width="1127" alt="image" src="https://github.com/kbyph/CloudedAI/assets/102638461/f982bbeb-b3a9-4db4-aa70-9760f49b1c84">
 
+<img width="1127" alt="image" src="https://github.com/kbyph/CloudedAI/assets/102638461/34256a9f-fc84-483b-ab74-4ef7ea306ed2">
+
 <img width="1127" alt="image" src="https://github.com/kbyph/CloudedAI/assets/102638461/fff9eee1-8a29-4cff-af68-dc60d39df785">
 
 <img width="1127" alt="image" src="https://github.com/kbyph/CloudedAI/assets/102638461/203c5d64-8c04-4fbe-9646-6b54109f4128">
