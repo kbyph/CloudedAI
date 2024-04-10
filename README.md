@@ -34,5 +34,5 @@ AI integrated note-taking app with Chatbot assistant.
 ## Figma
 Design File: https://www.figma.com/community/file/1360015006039940087/cloudedai-note-taking-app
 
-<img width="947" alt="image" src="https://github.com/kbyph/CloudedAI/assets/102638461/79473c1d-c190-4fd4-9da4-ea0166b3cf32">
+<img width="1127" alt="image" src="https://github.com/kbyph/CloudedAI/assets/102638461/b5459378-a9a7-4cf4-ac51-b8603d5339ed">
 
